@@ -4,8 +4,8 @@
 
 ## 数据结构
 
-* [线性表](shu-ju-jie-gou/xian-xing-biao/README.md)
-  * [Page 2](shu-ju-jie-gou/xian-xing-biao/page-2.md)
+* [机器字长 存储字长 指令字长 数据字长](shu-ju-jie-gou/ji-qi-zi-chang-cun-chu-zi-chang-zhi-ling-zi-chang-shu-ju-zi-chang/README.md)
+  * [Page 2](shu-ju-jie-gou/ji-qi-zi-chang-cun-chu-zi-chang-zhi-ling-zi-chang-shu-ju-zi-chang/page-2.md)
 
 ## 操作系统
 
