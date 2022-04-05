@@ -15,3 +15,8 @@
 
 * [1.计算机系统概述](ji-suan-ji-zu-cheng-yuan-li/1.-ji-suan-ji-xi-tong-gai-shu/README.md)
   * [机器字长 存储字长 指令字长 数据字长](ji-suan-ji-zu-cheng-yuan-li/1.-ji-suan-ji-xi-tong-gai-shu/ji-qi-zi-chang-cun-chu-zi-chang-zhi-ling-zi-chang-shu-ju-zi-chang.md)
+
+***
+
+* [2.数据的表示与运算](2.-shu-ju-de-biao-shi-yu-yun-suan/README.md)
+  * [海明码相关计算](2.-shu-ju-de-biao-shi-yu-yun-suan/hai-ming-ma-xiang-guan-ji-suan.md)
