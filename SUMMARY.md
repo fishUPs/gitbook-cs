@@ -19,6 +19,7 @@
 ***
 
 * [2.数据的表示与运算](2.-shu-ju-de-biao-shi-yu-yun-suan/README.md)
+  * [定点数符号位与数值位](2.-shu-ju-de-biao-shi-yu-yun-suan/ding-dian-shu-fu-hao-wei-yu-shu-zhi-wei.md)
   * [海明码相关计算](2.-shu-ju-de-biao-shi-yu-yun-suan/hai-ming-ma-xiang-guan-ji-suan.md)
   * [定点数的运算 —— 逻辑移位、算术移位、循环移位](2.-shu-ju-de-biao-shi-yu-yun-suan/ding-dian-shu-de-yun-suan-luo-ji-yi-wei-suan-shu-yi-wei-xun-huan-yi-wei.md)
   * [补码原理](2.-shu-ju-de-biao-shi-yu-yun-suan/bu-ma-yuan-li.md)
